@@ -1,6 +1,4 @@
 # Logical and Physical Mode Exploration
-Cisco Packet Tracer course practice one <br>
-
 
 ### Description: 
 Purpose: Introduction to creating a basic network between two cities <br>
