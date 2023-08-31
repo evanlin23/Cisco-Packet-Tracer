@@ -1,2 +1,2 @@
 # Projects
-Practice with design my own networks with Cisco Packet Tracer
+Practice with designing my own networks with Cisco Packet Tracer
