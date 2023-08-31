@@ -1,5 +1,6 @@
-# Logical and Physical Mode Exploration
+# Logical and Physical Mode Exploration through the Cisco Packet Tracer course 
 
+Purpose: Introduction to creating a basic network between 2 cities. <br>
 Connected switch to PC using ethernet cable <br>
 Configured backup router using command line and connected router to laptop via USB cable
 
