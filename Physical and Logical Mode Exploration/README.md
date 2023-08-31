@@ -1,5 +1,5 @@
 # Logical and Physical Mode Exploration
-Cisco Packet Tracer course practice one. <br>
+Cisco Packet Tracer course practice one <br>
 
 
 ### Description: 
